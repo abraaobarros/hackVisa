@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-points</title>
+    <desc>Created with Sketch.</desc>
+    <g id="IOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="11---Inicial" transform="translate(-30.000000, -525.000000)">
+            <g id="nav" transform="translate(0.000000, 516.000000)">
+                <g id="Group-2">
+                    <g id="ic-points" transform="translate(30.000000, 8.000000)">
+                        <polygon id="Rectangle-path" points="-9.42301792e-15 -6.32827124e-16 19.2 -6.32827124e-16 19.2 19.2 -9.42301792e-15 19.2"></polygon>
+                        <g id="Group" transform="translate(0.000000, 2.000000)" stroke="#6C727C">
+                            <polygon id="Shape" points="14.02096 8.25376 13.02856 2.60368 9.61048 8.39008 6.23144 2.61632 5.2 8.25376 2.10136 5.456 4.30544 14.82832 14.91552 14.82832 17.10304 5.44872"></polygon>
+                            <circle id="Oval" cx="6.0576" cy="1.544" r="1.07232"></circle>
+                            <circle id="Oval" cx="13.16336" cy="1.544" r="1.07232"></circle>
+                            <circle id="Oval" cx="17.58184" cy="4.4896" r="1.07232"></circle>
+                            <circle id="Oval" cx="1.63912" cy="4.4896" r="1.07232"></circle>
+                            <path d="M3.918,13.22832 L15.27408,13.22832" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

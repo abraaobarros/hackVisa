@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-show</title>
+    <desc>Created with Sketch.</desc>
+    <g id="IOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5---Login" transform="translate(-280.000000, -249.000000)">
+            <g id="ic-show" transform="translate(280.000000, 246.000000)">
+                <rect id="Rectangle-path" x="0" y="0" width="20" height="20"></rect>
+                <g id="Group" transform="translate(0.000000, 3.333333)" stroke="#C6CBD4">
+                    <ellipse id="Oval" cx="10.0381667" cy="6.67433333" rx="3.67158333" ry="3.78408333"></ellipse>
+                    <ellipse id="Oval" cx="10.0381667" cy="6.6745" rx="1.51" ry="1.55625"></ellipse>
+                    <path d="M19.25525,6.67466667 C17.4030833,2.9315 13.97,0.41575 10.03825,0.41575 C6.10625,0.41575 2.67333333,2.9315 0.821166667,6.67466667 C2.67333333,10.41775 6.10625,12.9335833 10.03825,12.9335833 C13.97,12.9335833 17.403,10.4178333 19.25525,6.67466667 L19.25525,6.67466667 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

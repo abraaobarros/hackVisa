@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "schedule": "2018-11-16 08:00:00",
+            "end_time": "08:30",
+            "end_schedule": "2018-11-16 08:30:00",
+            "mode": 0,
+            "finished_match": false,
+            "start_address": {
+                "id": 1,
+                "name": "Casa",
+                "address": "R. Osvaldo Aranha, 20 - Parangaba, Fortaleza - CE, Brasil",
+                "location": {
+                    "lat": -3.7830559,
+                    "lng": -38.5718263
+                },
+                "type": 1
+            },
+            "end_address": {
+                "id": 2,
+                "name": "Trabalho",
+                "address": "Aveninda Treze de Maio, F·tima, Fortaleza - CE",
+                "location": {
+                    "lat": -3.7464177,
+                    "lng": -38.5326852
+                },
+                "type": 2
+            },
+            "user": {
+                "id": 1,
+                "name": "Luiz Gabriel",
+                "job": "Desenvolvedor Mobile",
+                "tel": "85 99993-3961",
+                "photo_url": "http://res.cloudinary.com/hcmei2rus/image/upload/c_fill,g_face,h_200,w_200/nosmyfiqoe2rqizzrnrh",
+                "company": "Urbbox"
+            },
+            "car_id": null,
+            "car": null,
+            "days": null,
+            "matched_intentions": [
+                {
+                    "schedule": "2018-11-16 08:00:00",
+                    "end_time": "08:30",
+                    "end_schedule": "2018-11-16 08:30:00",
+                    "mode": 1,
+                    "spaces": 3,
+                    "finished_match": false,
+                    "start_address": {
+                        "id": 1,
+                        "name": "Casa",
+                        "address": "R. Osvaldo Aranha, 20 - Parangaba, Fortaleza - CE, Brasil",
+                        "location": {
+                            "lat": -3.7830559,
+                            "lng": -38.5718263
+                        },
+                        "type": 1
+                    },
+                    "end_address": {
+                        "id": 2,
+                        "name": "Trabalho",
+                        "address": "Aveninda Treze de Maio, F·tima, Fortaleza - CE",
+                        "location": {
+                            "lat": -3.7464177,
+                            "lng": -38.5326852
+                        },
+                        "type": 2
+                    },
+                    "user": {
+                        "id": 2,
+                        "name": "Abraao Barros",
+                        "job": "Desenvolvedor Mobile",
+                        "tel": "31 9886-4746",
+                        "photo_url": "http://res.cloudinary.com/hcmei2rus/image/upload/c_fill,g_face,h_200,w_200/av48pvcgjo0m51eouvdo",
+                        "company": "Urbbox"
+                    },
+                    "car_id": 2,
+                    "car": {
+                        "plate":"XXX-1231",
+                        "color":"Vermelho",
+                        "brand":"Onix"
+                    },
+                    "days": null,
+                    "matched_intentions": null
+                }
+            ]
+        },
+    ],
+    "size": 4,
+    "params": {
+        "max_evening_schedule": "15:00",
+        "max_morning_schedule": "21:00",
+        "carpooling_mode": 30
+    }
+}

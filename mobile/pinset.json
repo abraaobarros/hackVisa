@@ -1,0 +1,10 @@
+{
+  "domains": {
+    "*.bynd.com.br": {
+      "pins": [
+        "sha256/3CTBvbMFMiJNIeGfDQ2U91Q000DPxrLaZ7vgEfjZG+w=",
+        "sha256/JSMzqOOrtyOT1kmau6zKhgT676hGgczD5VMdRMyJZFA="
+      ]
+    }
+  }
+}
